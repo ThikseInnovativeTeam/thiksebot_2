@@ -1,0 +1,7 @@
+Flask
+nltk
+numpy
+pickle-mixin
+tensorflow
+scikit-learn
+flask-cors

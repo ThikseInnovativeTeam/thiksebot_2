@@ -76,7 +76,7 @@ responses = [
 
 career_corpus = [
     'What career opportunities',
-    'IT, Non-IT, Data Entry, full-stack developer, Front-End, Back-End, AI Developer',
+    'IT, Non-IT, Data Entry, full-stack developer, Front-End, Back-End, AI Developer, ai, hr',
     'Python, JavaScript, HR, Digital Marketing',
     'How can I reach your HR department? HR contact',
     'How can I apply for a job?',
